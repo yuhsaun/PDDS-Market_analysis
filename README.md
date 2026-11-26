@@ -20,5 +20,3 @@ Team 8 | Sales and Market Basket Analysis dashboard
 4. Open a Pull Request (PR) to merge your branch into `main`.
 5. A teammate reviews the PR, then clicks "Merge pull request".
 6. Before starting new work, pull the latest `main`.
-
-Practice PR by Amelia
